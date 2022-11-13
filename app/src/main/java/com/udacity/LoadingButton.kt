@@ -15,7 +15,7 @@ class LoadingButton @JvmOverloads constructor(
     private var widthSize = 0
     private var heightSize = 0
     private var buttonText = ""
-    // Variables to cache the attributed value
+    // Variables to cache the attributed value..
     private var buttonBackgroundColor = 0
     private var buttonTextColor = 0
     private var buttonLoadingColor = 0
